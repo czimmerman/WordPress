@@ -1,4 +1,5 @@
 <?php
+echo "hi";
 /**
  * Loads the WordPress environment and template.
  *
