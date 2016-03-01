@@ -1,5 +1,5 @@
 <?php
-echo "hi";
+echo "nonsense";
 /**
  * Loads the WordPress environment and template.
  *
